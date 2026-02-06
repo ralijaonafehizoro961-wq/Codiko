@@ -1,10 +1,10 @@
 
 # Codiko
 
-Codiko est une application web pédagogique qui permet de consulter des cours et des leçons interactives. Conçue comme une interface front-end moderne, elle sert de base pour créer, organiser et présenter du contenu d'apprentissage.
+Codiko est une application web pédagogique qui permet de consulter des cours de Python et des leçons interactives. Conçue comme une interface front-end moderne, elle sert de base pour créer, organiser et présenter du contenu d'apprentissage.
 
 Principaux points :
-- Présentation claire des cours et leçons
+- Présentation claire des cours et leçons Python
 - Composants réutilisables pour le rendu de code et des indicateurs (ex. `CodeBlock`, `FuelGaugeProgress`)
 - Contextes pour l'authentification, la langue et le thème
 - Basée sur React + TypeScript + Vite
